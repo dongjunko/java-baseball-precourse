@@ -7,7 +7,7 @@
 * [과제 제출 방법](https://github.com/next-step/nextstep-docs/tree/master/precourse)
 
 
-#구현할 기능 목록
+##구현할 기능 목록
 ### 정답 생성 
 * 3자리의 수로 이루어진 정답을 생성한다. 
 * 이 정답은 1부터 9까지의 서로 다른 임의의 수 3개로 이루어진다.
